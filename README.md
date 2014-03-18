@@ -1,4 +1,4 @@
-usb-core
+msc
 ========
 
-Learning and improving UTMI usb-core form opencores.org
+Public part of my MSc. Mostly diagrams and doc.
